@@ -4,6 +4,8 @@ Implementação do Jogo da Velha em React, seguindo o tutorial oficial: https://
 
 ![tic_tac_toe](https://user-images.githubusercontent.com/17749414/118364335-6f1af600-b56e-11eb-9387-a641832d415d.png)
 
+O resultado final em produção pode ser encontrado aqui: https://react-tic-tac-toe-iota.vercel.app/.
+
 Abaixo, estão instruções padrões do React para rodar localmente.
 
 ## Available Scripts
